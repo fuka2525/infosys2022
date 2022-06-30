@@ -21,6 +21,5 @@ while(num != 0){
         max = num;
     }  
     num = prompt("新しい数値をいれてください。０にすると終了します")
-
 }
 alert("最大値は　" + max)
